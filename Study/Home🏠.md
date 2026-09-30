@@ -1,6 +1,9 @@
 ---
 banner: "![[banner_蓝紫.png]]"
 ---
+---
+banner: "![[banner_蓝紫.png]]"
+---
 
 ---
 ![[待办事项#Todo]]
