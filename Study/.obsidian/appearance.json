@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 18,
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "line-height",
+    "image-centre"
+  ],
+  "cssTheme": "Border",
+  "theme": "moonstone",
+  "accentColor": ""
+}

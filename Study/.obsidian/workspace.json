@@ -1,0 +1,335 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eca42f55739d9a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2593b3c32bb4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home🏠.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home🏠"
+            }
+          },
+          {
+            "id": "066e5ea0232d8ed1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "附件🖼/Pasted image 20260424103409.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260424103409"
+            }
+          },
+          {
+            "id": "b41509c599552976",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "draw🎨/RandomTrajectory.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "RandomTrajectory.excalidraw"
+            }
+          },
+          {
+            "id": "a25e5edaca8119ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记📙/标注块.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "标注块"
+            }
+          },
+          {
+            "id": "89dd5b84e4ce2135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记📙/马尔可夫链.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "马尔可夫链"
+            }
+          },
+          {
+            "id": "e67d2fa4ac360b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记📙/Obsidian 基础使用说明.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian 基础使用说明"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0944ab60d4685182",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e3c44c5e3e8b1a6",
+        "type": "tabs",
+        "dimension": 62.00396825396825,
+        "children": [
+          {
+            "id": "f8a5c9a63303780b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "457f08173037bdea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#obsidian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "497f45b3a6fc52c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3c880bf8db8cc138",
+        "type": "tabs",
+        "dimension": 37.99603174603175,
+        "children": [
+          {
+            "id": "84ae7b741d95a8b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "a6b21fd3753d7b0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "767d39cd922a60a3",
+        "type": "tabs",
+        "dimension": 60.912698412698404,
+        "children": [
+          {
+            "id": "f4a40b16e274f9d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "bbc00406359161b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "6687a3faed24ec10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d39413ec7ce2550c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "draw🎨/RandomTrajectory.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "RandomTrajectory.excalidraw 的大纲"
+            }
+          },
+          {
+            "id": "34bb6adecbe243f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5da3cadfae099426",
+        "type": "tabs",
+        "dimension": 39.08730158730159,
+        "children": [
+          {
+            "id": "4d95e9112017effb",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "看板📋/待办事项.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "待办事项"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "bases:新建数据库": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-kanban:创建新看板": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b41509c599552976",
+  "lastOpenFiles": [
+    "附件🖼/Pasted image 20260424103409.png",
+    "笔记📙/马尔可夫链.md",
+    "笔记📙/Obsidian 基础使用说明.md",
+    "笔记📙/标注块.md",
+    "Home🏠.md",
+    "其他📂/未命名.md",
+    "附件🖼/Pasted image 20260424125836.png",
+    "附件🖼/Pasted image 20260424125714.png",
+    "draw🎨/Drawing 2026-04-24 11.57.47.excalidraw.md",
+    "附件🖼/Pasted image 20260424114020.png",
+    "draw🎨/RandomTrajectory.excalidraw.md",
+    "模板📝/日记模板.md",
+    "附件🖼/Pasted image 20260424114555.png",
+    "draw🎨/Drawing 2026-04-24 11.40.35.excalidraw.md",
+    "附件🖼/Pasted image 20260424112939.png",
+    "附件🖼/Pasted image 20260424112649.png",
+    "附件🖼/Pasted image 20260424112421.png",
+    "附件🖼/Pasted image 20260424111845.png",
+    "附件🖼/Pasted image 20260424111743.png",
+    "其他📂/Pasted image 20260424111819.png.md",
+    "看板📋/待办事项.md",
+    "模板📝/通用模板.md",
+    "draw🎨/value iteration.excalidraw.md",
+    "draw🎨/浅拷贝.excalidraw.md",
+    "draw🎨/policy iteration.excalidraw.md",
+    "其他📂/未命名 1.base",
+    "其他📂/未命名.base",
+    "其他📂/力扣.md",
+    "其他📂/驰亚.md",
+    "其他📂/毕设.md",
+    "其他📂/笔试.md",
+    "draw🎨/Constractive mapping.excalidraw.md",
+    "draw🎨/深拷贝.excalidraw.md"
+  ]
+}
